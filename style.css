@@ -9,8 +9,12 @@ img{
 }
 .parent1{
   display: flex;
+  background-color: #ffe9ef;
+  padding: 2em;
 }
 .child1{
   width: 100%;
   justify-content: space-around;
+  background-color: #ffd9e4;
+  margin: 0 1em;
 }
