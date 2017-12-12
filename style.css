@@ -9,12 +9,21 @@ img{
 }
 .parent1{
   display: flex;
+  justify-content: space-around;
   background-color: #ffe9ef;
   padding: 2em;
 }
 .child1{
-  width: 100%;
-  justify-content: space-around;
+  background-color: #ffd9e4;
+  margin: 0 1em;
+}
+.parent2{
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ffe9ef;
+  padding: 2em;
+}
+.child2{
   background-color: #ffd9e4;
   margin: 0 1em;
 }
