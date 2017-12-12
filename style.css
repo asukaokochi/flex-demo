@@ -3,14 +3,14 @@ body{
   margin: 2em auto 0;
   text-align: center;
 }
-.parent{
-  display: flex;
-}
-.child{
-  width: 100%;
-  justify-content: space-around;
-}
 img{
   border-radius: 50%;
   margin: 1em 2em;
+}
+.parent1{
+  display: flex;
+}
+.child1{
+  width: 100%;
+  justify-content: space-around;
 }
