@@ -57,3 +57,9 @@ img{
   background-color: #ffd9e4;
   margin: 0 1em;
 }
+
+@media(max-width:425px){
+  img{
+    margin: 0;
+  }
+}
